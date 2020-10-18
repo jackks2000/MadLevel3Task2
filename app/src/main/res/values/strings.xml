@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="reminders_header">Reminders</string>
+    <string name="reminders_paragraph">See below for all your reminders</string>
+    <string name="add_reminder_header">Add your reminder</string>
+    <string name="add_reminder_button">ADD REMINDER</string>
+    <string name="item_reminder_default">DEFAULT REMINDER</string>
+    <string name="not_valid_reminder">Reminder not valid, try again</string>
+
+
+</resources>
