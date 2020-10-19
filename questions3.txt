@@ -1,0 +1,17 @@
+Which stages of an activity lifecycle exists?
+- onCreate
+onStart
+onResume
+onPause
+onStop
+onDestroy
+
+Which are the two kind of intents, and what is the difference?
+- explicit and implicit. When an application defines its target component in an intent, that it is an explicit intent.
+ When the application does not name a target component, that it is an implicit intent.
+
+What is the difference between Parcelables and Serializables?
+- parcelables is much faster than serializables
+
+What is the purpose of the analyzer?
+- reduces debugging time
